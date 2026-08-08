@@ -27,4 +27,4 @@ int32_t main(){
     }
     
 }
-// g++ parimid.cpp && ./a.exe
+//  g++-16 parimid.cpp -o parimid && ./parimid
